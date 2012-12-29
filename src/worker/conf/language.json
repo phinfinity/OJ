@@ -1,1 +1,1 @@
-{"python": {"compiler": "bin/addHeader.py"}}
+{"python": {"compiler": "python_compiler.sh"}}
